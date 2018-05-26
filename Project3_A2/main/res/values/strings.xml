@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Project3_A2</string>
+    <string-array name="Attractions">
+        <item>Art Institute of Chicago</item>
+        <item>Millennium Park</item>
+        <item>Michigan Avenue and the Magnificent Mile</item>
+        <item>Navy Pier</item>
+        <item>Wrigley Field</item>
+        <item>Shakespeare Theater</item>
+        <item>Museum of Science and Industry</item>
+        <item>Field Museum of Natural History</item>
+        <item>Lyric Opera of Chicago</item>
+        <item>Oriental Institute Museum</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="Attractions_URL">
+        <item>http://www.artic.edu/</item>
+        <item>https://en.wikipedia.org/wiki/Millennium_Park</item>
+        <item>https://www.themagnificentmile.com/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.mlb.com/cubs/ballpark</item>
+        <item>https://www.folger.edu/shakespeares-theater</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.lyricopera.org/</item>
+        <item>https://oi.uchicago.edu/museum-exhibits</item>
+        <item>https://www.google.com</item>
+    </string-array>
+    <string-array name="Restaurants">
+        <item>Alinea</item>
+        <item>Joe's Seafood, Prime SteakStone Crab</item>
+        <item>Oriole</item>
+        <item>Bavette's Bar and Boeuf</item>
+        <item>The Chicago Diner</item>
+        <item>IO Godfrey Rooftop Lounge</item>
+    </string-array>
+
+</resources>

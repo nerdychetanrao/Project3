@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project3_A1</string>
+    <string name="attractions_str">Click on attractions to see the visitor attractions of Chicago</string>
+    <string name="restaurants_str">Click on restaurants to see the restaurants in Chicago</string>
+    <string name="uic_perm_Activity">UIC PErmission Activity</string>
+    <string name="uic_perm_description">UIC Permission Description</string>
+</resources>
